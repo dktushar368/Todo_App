@@ -11,7 +11,7 @@ body {
 }
 
 .hero {
-  background: linear-gradient(135deg, #7c3aed, #4a7cff);
+  background: linear-gradient(135deg, #67a7d4, #007358);
   color: #fff;
   padding: 26px 20px 60px;
   text-align: center;
@@ -35,7 +35,7 @@ body {
 .app {
   max-width: 520px;
   margin: -40px auto 30px;
-  background: #fff;
+  background: #aded8a;
   padding: 20px;
   border-radius: 14px;
   box-shadow: 0 12px 30px rgba(0,0,0,.1);
@@ -51,13 +51,13 @@ body {
   flex: 1;
   padding: 12px;
   font-size: 15px;
-  border: 1px solid #d0d5dd;
+  border: 1px solid #5e98f6;
   border-radius: 8px;
 }
 
 .composer button {
   padding: 12px 18px;
-  background: #7c3aed;
+  background: #4df4ab;
   color: #fff;
   border: none;
   border-radius: 8px;
